@@ -1,5 +1,11 @@
 # @dkshs/eslint-config
 
+## 2.8.4
+
+### Patch Changes
+
+- [#157](https://github.com/dkshs/eslint-config/pull/157) [`7456374`](https://github.com/dkshs/eslint-config/commit/7456374b3ff54023af3cbbcc0cb72e23e07320da) - chore(deps): update eslint-plugin-jsdoc to v50
+
 ## 2.8.3
 
 ### Patch Changes
